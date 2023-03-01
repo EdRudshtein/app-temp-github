@@ -1,0 +1,10 @@
+#flask
+numpy
+openpyxl
+pandas
+psycopg2
+requests
+SQLAlchemy<2.0
+
+-r ./../libraries/common/requirements.txt
+-r ./../libraries/data/requirements.txt

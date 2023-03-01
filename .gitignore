@@ -1,0 +1,101 @@
+# General
+.git/
+
+# IDEs
+.idea/
+.vs/
+.vscode/
+
+# Python - General
+coverage/
+__pycache__/
+**/*.pyc
+**/*.pkl
+*.py[cod]
+*$py.class
+__pypackages__/
+
+# Python - Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Python - Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+
+# Python - testing / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+cover/
+
+# Python - Sphinx (documentation)
+docs/_build/
+
+# Python - Jupyter Notebook
+.ipynb_checkpoints
+
+# Python - Cython debug symbols
+cython_debug/
+
+
+# Python - Scrapy
+.scrapy
+
+
+
+#  C-Sharp User-specific files
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bin/
+obj/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# Node
+node_modules/
+
+# MLflow
+mlruns/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
